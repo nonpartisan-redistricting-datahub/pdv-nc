@@ -23,9 +23,13 @@ D. Difficulty in getting shapefile from that website, used this link instead, fr
 	
 A. MGGG stated they received election data from the North Carolina General Assembly's 2016 Redistricting Reference Data
 B. NCLEG>Redistricting Archives>2016 Redistricting Reference Data>Numeric Data>Datasets>by Voting Tabulation District
+
 i) ELection Data 2008-2012 contest results are disaggregated using a commercially-available utility. VTD-level counts were broken out based on the ratio of block-level census voting age population to VTD-level voting age population. Since results are fractional, they were truncated down to the nearest whole vote. The remainders of all blocks within a VTD were then added to the highest population block within that VTD.
+
 ii) This is the exact dataset that MGGG used, however, this file does not have the 2012 presidential election and 2016 elections. We had to get them from a seperate file
+
 iii) From the Data Processing Notes at NCLEG's 2016 Redistricting Database, [https://www.ncleg.gov/Files/GIS/Base_Data/2016/Numeric/Data_Processing_Notes_2016.pdf], NCLEG obtained election results from the North Carolina State Board of Elections at the VTD-level. VTDs are equivalent to the voter precincts as they existed on January 1st, 2008. 
+
 iv) County-wide votes found in the VTD-level data files falling under categories such as 'absentee','transfer','provisional' were excluded due to the homogenizing effect on the VTD-level data. Statewide candidate vote totals are marginally less than those reported in the official contest results due to this reason.
 v) Election results were matched directly to the 2010 census VTD geography
 	
