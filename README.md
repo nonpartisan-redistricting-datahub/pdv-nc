@@ -22,6 +22,9 @@ Partner Data Validation for North Carolina. Data Partner: MGGG
 - 2016 NC Congressional District Plan
   - Online: https://www.ncleg.gov/Redistricting (“Congressional District Plans” -> “Enacted 2016” -> “Shapefile”)
   - AWS:
+- MGGG NC File
+  - Online: https://github.com/mggg-states/NC-shapefiles
+  - AWS: 
 
 **File Processing:**
 - MGGG File: https://github.com/mggg-states/NC-shapefiles  
