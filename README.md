@@ -5,22 +5,22 @@ Partner Data Validation for North Carolina. Data Partner: MGGG
 
 **Raw from source:**
 - North Carolina VTD Shapefile w/ Election Results:
-  - Online:
+  - Online: https://www.ncleg.gov/Redistricting/BaseData2016 (“Geographic Data” -> “Assignment Layers (counties, VTDs, blocks)”
   - AWS:  
 - Census Block to VTD Keys
-  - Online:
+  - Online: https://www.ncleg.gov/Redistricting/BaseData2016 ("Numeric Data" -> "Datasets" -> "Block Level Keys")
   - AWS:
 - 2012 Election Data
-  - Online:
+  - Online: https://er.ncsbe.gov/downloads.html (Election:11/06/2012 -> “Available Election-related Files” -> “results_sort_20121106.zip”)
   - AWS:
 - 2016 Election Data
-  - Online:
+  - Online: https://er.ncsbe.gov/downloads.html (Election:11/08/2016 -> “Available Election-related Files” -> “results_sort_20161108.zip”)
   - AWS:
 - 2011 NC Congressional District Plan
-  - Online:
+  - Online: https://www.ncleg.gov/Redistricting (“Congressional District Plans” -> “Enacted 2011” -> “Shapefile”)
   - AWS:
 - 2016 NC Congressional District Plan
-  - Online:
+  - Online: https://www.ncleg.gov/Redistricting (“Congressional District Plans” -> “Enacted 2016” -> “Shapefile”)
   - AWS:
 
 **File Processing:**
