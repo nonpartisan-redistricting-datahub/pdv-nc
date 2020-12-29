@@ -5,7 +5,7 @@ Partner Data Validation for North Carolina. Data Partner: MGGG
 
 **Raw from source:**
 - North Carolina VTD Shapefile w/ Election Results:
-  - Online: https://www.ncleg.gov/Redistricting/BaseData2016 (“Geographic Data” -> “Assignment Layers (counties, VTDs, blocks)”
+  - Online: https://www.ncleg.gov/Redistricting/BaseData2016 (“Geographic Data” -> “Assignment Layers (counties, VTDs, blocks))”
   - AWS: `R2016_Assignment_Layers.gdb`
 - Census Block to VTD Keys
   - Online: https://www.ncleg.gov/Redistricting/BaseData2016 ("Numeric Data" -> "Datasets" -> "Block Level Keys")
