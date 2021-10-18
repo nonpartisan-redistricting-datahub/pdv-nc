@@ -6,6 +6,18 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
+## vest-nc-2020
+
+RDH's partner data validation for VEST's 2020 NC file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/EL3UAZ).
+
+View the final report [here](https://dataverse.harvard.edu/file.xhtml?fileId=4863162&version=21.0).
+
+## vest-nc-2018
+
+RDH's partner data validation for VEST's 2018 NC file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4863186&version=47.0).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-north-carolina-precinct-boundaries-and-election-results-shapefile/).
+
 ## vest-nc-2016
 
 RDH's partner data validation for VEST's 2016 NC file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/EL3UAZ).
