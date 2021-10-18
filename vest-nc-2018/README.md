@@ -1,7 +1,7 @@
 # pdv-nc
 Partner data validation for North Carolina, from VEST 2018. 
 
-Our final validation report for this dataset is available [here]().
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-north-carolina-precinct-boundaries-and-election-results-shapefile/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
