@@ -16,11 +16,16 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - VEST NC 18 documentation file
   - Accessed: 10/06/21, Source: VEST
   - https://dataverse.harvard.edu/file.xhtml?fileId=5194701&version=47.0
-- NC Precinct-Level Election Results
+- NC Unsorted Precinct-Level Election Results
   - Accessed: 10/06/21, Source: ID Secretary of State
-  - https://www.ncsbe.gov/results-data/election-results/historical-election-results-data
-  - Non-Sorted Precinct results and Sorted Precinct Results for the counties listed by VEST
-- NC Voting Precincts 2018 Shapefile
+  - https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2018_11_06/results_pct_20181106.zip
+  - Note: Used for the counties listed by VEST in their documentation.
+- NC Sorted Precinct-Level Election Results
+  - Accessed: 10/06/21, Source: ID Secretary of State
+  - https://dl.ncsbe.gov/?prefix=ENRS/2018_11_06/results_precinct_sort/
+  - Note: Used for the counties listed by VEST in their documentation.
+- NC Voting Precincts “20170519” Shapefile
   - Accessed: 10/06/21, Source: North Carolina State Board of Elections
-  - https://www.ncsbe.gov/results-data/voting-maps-redistricting
+  - https://dl.ncsbe.gov/?prefix=PrecinctMaps/
+
 
